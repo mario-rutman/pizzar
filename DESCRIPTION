@@ -2,11 +2,10 @@ Package: pizzar
 Type: Package
 Title: Retorna os ingredientes e suas quantidades para certo número de pizzas
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: MIT + file LICENSE
+Author: Mario Rutman
+Maintainer: Mario Rutman <marrut@gmail.com>
+Description: Dada uma quantidade de pizzas e seu tipo (massa fina, media ou alta) a funcão retorna os ingredientes e suas quantidades.
+License: GPL
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.2
