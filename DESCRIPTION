@@ -13,3 +13,7 @@ Imports:
     dplyr,
     glue,
     tibble
+Suggests: 
+    rmarkdown,
+    knitr
+VignetteBuilder: knitr
